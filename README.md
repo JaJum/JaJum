@@ -81,4 +81,4 @@
 
 ---
 
-<p align="center"><sub>📫 <b>wjj69986@gmail.com</b> · welcome to reach out!</sub></p>
+<p align="center"><sub>📫 <b>jajum@foxmail.com</b> · welcome to reach out!</sub></p>
