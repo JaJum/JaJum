@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Student-%E5%A5%A5%E5%85%8B%E5%85%B0%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="奥克兰理工大学"/>
   <img src="https://img.shields.io/badge/Focus-Agent%20%2F%20LLM-5EEAD4?style=for-the-badge&logo=openai&logoColor=black" alt="focus"/>
   <a href="mailto:wjj69986@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wjj69986%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Email-jajum%40foxmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
 
