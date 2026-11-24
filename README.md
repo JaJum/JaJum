@@ -76,11 +76,11 @@
 
 ## 📌 Pinned Projects
 
-三个自研项目，分别对应 Agent 编排、Agent 底层范式和 Java Web 全栈，都可以 clone 下来在本地跑通：
+三个自研项目，分别覆盖 Agent 编排、多 Agent 内容生产与 Agent 底层范式（其中 bookcast 为商用闭源项目，只作说明，不放仓库链接）：
 
 - **[agentic-rag-ecommerce](https://github.com/JaJum/agentic-rag-ecommerce)** — 可回放的 Agentic RAG 电商智能客服（FastAPI + Vue3）。用 LangGraph 状态机把问题分流到闲聊 / 快速 RAG / 多步工具 Agent，6 个业务工具覆盖知识检索、商品对比、订单查询、售后政策与转人工；每一步工具调用都落库并经 SSE 实时推送，历史会话可回放完整轨迹。配套 72 商品 / 164 chunks 的可复现数据集、48 条评测用例和 81 个后端测试，Lite 模式一条命令离线跑通（SQLite + BM25 + Mock LLM，不需要 API Key）。
+- **bookcast**（商用闭源） — 把「一个主题」变成「一集播客」的全链路系统（FastAPI + React 18 + TypeScript）。用 SQLAlchemy + SQLite 建模书单、研究任务与文稿版本，Redis 拆出 research / podcast / audio 三条 RQ 队列；AutoGen GraphFlow 依次调度策划、资料研究、脚本撰写与评审，每个阶段都落检查点、失败可从最近检查点续跑，评审不通过会自动退回改写（最多三版）。检索侧用 Goodreads / Open Library / Gutenberg 的 MCP 通道做馆藏核对，豆包 SearchInfinity 与 Tavily 双通道联网搜索；成稿后按角色用 CosyVoice2 分段 TTS，带失败重试与片段缓存，统一音量后拼成可下载的 WAV。
 - **[agentlab](https://github.com/JaJum/agentlab)** — 不用 Agent 框架、只用 OpenAI SDK 手写的范式实验场：ReAct 的核心循环、LLM 输出解析、工具执行器与 SerpApi 搜索工具，加上 Plan-and-Solve 的 Planner / Executor 拆分，以及流式与非流式两种模型调用封装，用来对照弄清「框架到底替你做了什么」。
-- **[Huangshan-HTML](https://github.com/JaJum/Huangshan-HTML)** — Spring 6 + Spring MVC + MyBatis + MySQL 的 SSM 全栈站点（黄山家乡主题课程大作业）：注册登录与 Session 管理、美食 / 景点 / 文化三个模块的关键词搜索与分页、管理员后台 CRUD 和 role=ADMIN 权限隔离；Maven 打包成 war，JSP / JSTL 渲染，跑在 JDK 17 + Tomcat 10.1 上。
 
 ---
 
