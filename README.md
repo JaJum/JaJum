@@ -76,8 +76,11 @@
 
 ## 📌 Pinned Projects
 
-- [frontend-learning](https://github.com/JaJum/frontend-learning) — 前端基础知识学习路线与练习记录。
-- [Kitty-Accounting-APP](https://github.com/JaJum/Kitty-Accounting-APP) — 猫猫记账 App，轻松记录日常收支。
+三个自研项目，分别对应 Agent 编排、Agent 底层范式和 Java Web 全栈，都可以 clone 下来在本地跑通：
+
+- **[agentic-rag-ecommerce](https://github.com/JaJum/agentic-rag-ecommerce)** — 可回放的 Agentic RAG 电商智能客服（FastAPI + Vue3）。用 LangGraph 状态机把问题分流到闲聊 / 快速 RAG / 多步工具 Agent，6 个业务工具覆盖知识检索、商品对比、订单查询、售后政策与转人工；每一步工具调用都落库并经 SSE 实时推送，历史会话可回放完整轨迹。配套 72 商品 / 164 chunks 的可复现数据集、48 条评测用例和 81 个后端测试，Lite 模式一条命令离线跑通（SQLite + BM25 + Mock LLM，不需要 API Key）。
+- **[agentlab](https://github.com/JaJum/agentlab)** — 不用 Agent 框架、只用 OpenAI SDK 手写的范式实验场：ReAct 的核心循环、LLM 输出解析、工具执行器与 SerpApi 搜索工具，加上 Plan-and-Solve 的 Planner / Executor 拆分，以及流式与非流式两种模型调用封装，用来对照弄清「框架到底替你做了什么」。
+- **[Huangshan-HTML](https://github.com/JaJum/Huangshan-HTML)** — Spring 6 + Spring MVC + MyBatis + MySQL 的 SSM 全栈站点（黄山家乡主题课程大作业）：注册登录与 Session 管理、美食 / 景点 / 文化三个模块的关键词搜索与分页、管理员后台 CRUD 和 role=ADMIN 权限隔离；Maven 打包成 war，JSP / JSTL 渲染，跑在 JDK 17 + Tomcat 10.1 上。
 
 ---
 
