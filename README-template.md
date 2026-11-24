@@ -28,9 +28,9 @@
 
 ## 🛠️ Tech Stack
 
-<!-- 4. 技术栈图标：从 https://skillicons.dev 选择，perline 控制每行数量 -->
+<!-- 4. 技术栈图标：assets/tech-stack.svg（skillicons.dev 同款样式，每行 7 个；增删图标需重新生成该文件） -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,mysql,sqlite,redis,java,git,cpp,c,linux,vscode,vue,fastapi&perline=7" alt="tech stack"/>
+  <img src="./assets/tech-stack.svg" alt="tech stack"/>
 </p>
 
 ---
