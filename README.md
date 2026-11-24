@@ -31,7 +31,7 @@
 
 <!-- 4. 技术栈图标：从 https://skillicons.dev 选择，perline 控制每行数量 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,swift,kotlin,cpp,c,docker,mysql,redis,rabbitmq,sqlite,git,linux,vscode&perline=7" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,mysql,sqlite,redis,java,git,cpp,c,linux,vscode,vue,fastapi&perline=7" alt="tech stack"/>
 </p>
 
 ---
