@@ -35,44 +35,6 @@
 
 ---
 
-## 🌟 Spotlight — YOUR_PROJECT
-
-<!-- 5. Spotlight：用表格把 Logo、简介、徽章放在同一行 -->
-<table>
-  <tr>
-    <td width="150" align="center" valign="middle">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO">
-        <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/logo.png" width="128" height="128" alt="project logo"/>
-      </a>
-    </td>
-    <td valign="middle">
-      <h3>YOUR_PROJECT · 一句话价值主张</h3>
-      <p><b>English one-liner.</b><br/>
-      用 1-2 行说明它解决什么问题、核心技术或使用场景。</p>
-      <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO/releases/latest"><img src="https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/YOUR_REPO?sort=semver&style=flat-square&color=2268F7" alt="release"/></a>
-        <img src="https://img.shields.io/badge/platform-Your%20Platform-black?style=flat-square" alt="platform"/>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO/stargazers"><img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPO?style=flat-square&color=5EEAD4" alt="stars"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-**为什么值得一试？**
-
-- 🧠 **核心能力** — 写清楚最重要的技术亮点。
-- ⚡ **实际体验** — 写清楚用户能感受到的改进。
-- 🔧 **工程细节** — 写清楚稳定性、性能或可维护性。
-- 🤖 **面向场景** — 写清楚适合谁、在什么场景下使用。
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO/releases/latest"><b>⬇ Download / Try it</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO"><b>⭐ Star on GitHub</b></a>
-</p>
-
----
-
 ## 📌 Pinned Projects
 
 - [Project One](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE) — 一句话说明项目价值。
