@@ -36,44 +36,6 @@
 
 ---
 
-## 🌟 Spotlight — garmin-connect-mcp
-
-<!-- 5. Spotlight：用表格把 Logo、简介、徽章放在同一行 -->
-<table>
-  <tr>
-    <td width="150" align="center" valign="middle">
-      <a href="https://github.com/JaJum/garmin-connect-mcp">
-        <img src="https://raw.githubusercontent.com/JaJum/garmin-connect-mcp/main/logo.png" width="128" height="128" alt="project logo"/>
-      </a>
-    </td>
-    <td valign="middle">
-      <h3>garmin-connect-mcp · 原生直连 Garmin 手表的 MCP Server</h3>
-      <p><b>A real MCP server that connects Garmin watches natively — 15 data tools for AI-driven training & health.</b><br/>
-      基于 Python 与 FastMCP 的真实 MCP Server，提供活动、睡眠、压力、训练状态等 15 类数据工具，让 AI 直连你的 Garmin 手表。</p>
-      <p>
-        <a href="https://github.com/JaJum/garmin-connect-mcp/releases/latest"><img src="https://img.shields.io/github/v/release/JaJum/garmin-connect-mcp?sort=semver&style=flat-square&color=2268F7" alt="release"/></a>
-        <img src="https://img.shields.io/badge/platform-Python-black?style=flat-square" alt="platform"/>
-        <a href="https://github.com/JaJum/garmin-connect-mcp/stargazers"><img src="https://img.shields.io/github/stars/JaJum/garmin-connect-mcp?style=flat-square&color=5EEAD4" alt="stars"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-**为什么值得一试？**
-
-- 🧠 **核心能力** — 原生直连 Garmin 手表协议，15 类数据工具覆盖活动、睡眠、压力、训练状态。
-- ⚡ **实际体验** — AI 直接读取你的真实训练与健康数据，让科学训练建议有据可依。
-- 🔧 **工程细节** — 真实 MCP Server 实现，基于 Python 与 FastMCP 构建，易于扩展接入各类 AI 客户端。
-- 🤖 **面向场景** — 面向用 AI 做科学训练的运动爱好者，以及关注健康生活的每一个人。
-
-<p align="center">
-  <a href="https://github.com/JaJum/garmin-connect-mcp"><b>⬇ Download / Try it</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/JaJum/garmin-connect-mcp"><b>⭐ Star on GitHub</b></a>
-</p>
-
----
-
 ## 📌 Pinned Projects
 
 三个自研项目，分别覆盖 Agent 编排、多 Agent 内容生产与 Agent 底层范式（其中 bookcast 为商业项目，代码暂不公开）：
